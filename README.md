@@ -1,5 +1,7 @@
 # auto-project-structure
-This tool automatically creates a basic folder structure for your next Python project.
+This tool automatically creates a basic folder structure for your next Python project. Below is a screenshot of my tool in action.
+
+![screenshot of the tool in action](screenshot.png)
 
 ## Features
 - Creates common directories.
