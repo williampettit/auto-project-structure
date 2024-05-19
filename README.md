@@ -12,9 +12,9 @@ This tool automatically creates a basic folder structure for your next Python pr
 - Initializes a local Git repository and begins tracking all created files.
 
 ## Planned Features
-[ ] Add support for more than just Python project structures, will require writing additional templates, can dynamically select a `.gitignore` template based on the language though.
-[ ] Add support to allow user to select a license from a list of common ones.
-[ ] Add support to allow user to input their full name to be used in author fields and license file.
+- [ ] Add support for more than just Python project structures, will require writing additional templates, can dynamically select a `.gitignore` template based on the language though.
+- [ ] Add support to allow user to select a license from a list of common ones.
+- [ ] Add support to allow user to input their full name to be used in author fields and license file.
 
 ## License
-MIT
+[MIT](LICENSE)
