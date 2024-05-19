@@ -1,0 +1,11 @@
+# Path: main.py
+# Version: 0.1.0 ([date])
+# License: MIT
+
+
+def main() -> None:
+  print("Hello")
+
+
+if __name__ == "__main__":
+  main()
